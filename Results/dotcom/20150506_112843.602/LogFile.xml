@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="navigate_brand.script" package="unilever.com.suite" timestamp="2015-05-06 11:28:43.602 +0100"
+ tests="1" successes="0" errors="1" time="80.467000">
+  <properties>
+   <property name="RunDate" value="2015-05-06 11:28:43.602 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="navigate_brand.script" assertions="1" successes="0" errors="1" time="80.449">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,166 @@
+1	0.00400003	start	
+2	3.544	mouseDown	{button:1, clickCount:1, hotSpot:[348.036255, 140.77832]}
+3	3.688	mouseUp	{button:1, clickCount:1, hotSpot:[348.036255, 140.77832]}
+4	5.142	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+5	5.264	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+6	5.306	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+7	5.371	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+8	5.499	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+9	5.554	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+10	5.659	keyDown	{modifiers:0, string:@".", theKey:@"."}
+11	5.753	keyUp	{modifiers:0, string:@".", theKey:@"."}
+12	6.004	keyDown	{modifiers:0, string:@"p", theKey:@"p"}
+13	6.074	keyUp	{modifiers:0, string:@"p", theKey:@"p"}
+14	6.188	keyDown	{modifiers:0, string:@"r", theKey:@"r"}
+15	6.275	keyUp	{modifiers:0, string:@"r", theKey:@"r"}
+16	6.282	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+17	6.338	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+18	6.795	keyDown	{modifiers:0, string:@"j", theKey:@"j"}
+19	6.892	keyUp	{modifiers:0, string:@"j", theKey:@"j"}
+20	6.944	keyDown	{modifiers:0, string:@"e", theKey:@"e"}
+21	6.985	keyUp	{modifiers:0, string:@"e", theKey:@"e"}
+22	7.106	keyDown	{modifiers:0, string:@"c", theKey:@"c"}
+23	7.185	keyUp	{modifiers:0, string:@"c", theKey:@"c"}
+24	7.332	keyDown	{modifiers:0, string:@"t", theKey:@"t"}
+25	7.385	keyUp	{modifiers:0, string:@"t", theKey:@"t"}
+26	16.906	keyDown	{modifiers:0, string:@"s", theKey:@"s"}
+27	17.005	keyUp	{modifiers:0, string:@"s", theKey:@"s"}
+28	17.17	keyDown	{modifiers:0, string:@"u", theKey:@"u"}
+29	17.242	keyUp	{modifiers:0, string:@"u", theKey:@"u"}
+30	17.404	keyDown	{modifiers:0, string:@"n", theKey:@"n"}
+31	17.474	keyUp	{modifiers:0, string:@"n", theKey:@"n"}
+32	17.699	keyDown	{modifiers:0, string:@"l", theKey:@"l"}
+33	17.762	keyUp	{modifiers:0, string:@"l", theKey:@"l"}
+34	17.939	keyDown	{modifiers:0, string:@"i", theKey:@"i"}
+35	17.986	keyUp	{modifiers:0, string:@"i", theKey:@"i"}
+36	18.146	keyDown	{modifiers:0, string:@"g", theKey:@"g"}
+37	18.17	keyUp	{modifiers:0, string:@"g", theKey:@"g"}
+38	18.178	keyDown	{modifiers:0, string:@"h", theKey:@"h"}
+39	18.234	keyUp	{modifiers:0, string:@"h", theKey:@"h"}
+40	18.344	keyDown	{modifiers:0, string:@"t", theKey:@"t"}
+41	18.378	keyUp	{modifiers:0, string:@"t", theKey:@"t"}
+42	18.682	keyDown	{modifiers:0, string:@".", theKey:@"."}
+43	18.737	keyUp	{modifiers:0, string:@".", theKey:@"."}
+44	18.953	keyDown	{modifiers:0, string:@"c", theKey:@"c"}
+45	19.031	keyUp	{modifiers:0, string:@"c", theKey:@"c"}
+46	19.089	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+47	19.154	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+48	19.347	keyDown	{modifiers:0, string:@".", theKey:@"."}
+49	19.442	keyUp	{modifiers:0, string:@".", theKey:@"."}
+50	19.508	keyDown	{modifiers:0, string:@"u", theKey:@"u"}
+51	19.624	keyUp	{modifiers:0, string:@"u", theKey:@"u"}
+52	19.674	keyDown	{modifiers:0, string:@"k", theKey:@"k"}
+53	19.745	keyUp	{modifiers:0, string:@"k", theKey:@"k"}
+54	20.283	keyDown	{modifiers:0, string:@"\r", theKey:@"\r"}
+55	20.386	keyUp	{modifiers:0, string:@"\r", theKey:@"\r"}
+56	39.572	mouseDown	{button:1, clickCount:1, hotSpot:[374.622375, 1078.578735]}
+57	40.943	mouseUp	{button:1, clickCount:1, hotSpot:[372.205444, 214.41626]}
+58	47.362	mouseDown	{button:1, clickCount:1, hotSpot:[454.380676, 205.75293]}
+59	48.347	mouseUp	{button:1, clickCount:1, hotSpot:[456.797607, 348.697144]}
+60	53.386	mouseDown	{button:1, clickCount:1, hotSpot:[393.957703, 450.490723]}
+61	53.588	mouseUp	{button:1, clickCount:1, hotSpot:[393.957703, 450.490723]}
+62	60.645	mouseDown	{button:1, clickCount:1, hotSpot:[316.616333, 931.302856]}
+63	60.882	mouseUp	{button:1, clickCount:1, hotSpot:[316.616333, 931.302856]}
+64	66.402	mouseDown	{button:1, clickCount:1, hotSpot:[534.138977, 1054.754639]}
+65	66.621	mouseUp	{button:1, clickCount:1, hotSpot:[534.138977, 1054.754639]}
+66	68.153	mouseDown	{button:1, clickCount:1, hotSpot:[534.138977, 844.670044]}
+67	68.341	mouseUp	{button:1, clickCount:1, hotSpot:[534.138977, 844.670044]}
+68	68.884	mouseDown	{button:1, clickCount:1, hotSpot:[572.809692, 944.297852]}
+69	69.113	mouseUp	{button:1, clickCount:1, hotSpot:[572.809692, 944.297852]}
+70	69.601	mouseDown	{button:1, clickCount:1, hotSpot:[174.018127, 849.001709]}
+71	69.794	mouseUp	{button:1, clickCount:1, hotSpot:[174.018127, 849.001709]}
+72	74.455	mouseDown	{button:1, clickCount:1, hotSpot:[123.262848, 628.088013]}
+73	74.672	mouseUp	{button:1, clickCount:1, hotSpot:[123.262848, 628.088013]}
+74	77.201	mouseDown	{button:1, clickCount:1, hotSpot:[444.713013, 955.126953]}
+75	77.385	mouseUp	{button:1, clickCount:1, hotSpot:[444.713013, 955.126953]}
+76	78.373	mouseDown	{button:1, clickCount:1, hotSpot:[616.314209, 853.333374]}
+77	78.581	mouseUp	{button:1, clickCount:1, hotSpot:[616.314209, 849.001709]}
+78	79.724	mouseDown	{button:1, clickCount:1, hotSpot:[239.274933, 846.835876]}
+79	79.913	mouseUp	{button:1, clickCount:1, hotSpot:[239.274933, 846.835876]}
+80	81.077	mouseDown	{button:1, clickCount:1, hotSpot:[480.966797, 1048.257202]}
+81	81.262	mouseUp	{button:1, clickCount:1, hotSpot:[480.966797, 1048.257202]}
+82	84.96	mouseDown	{button:1, clickCount:1, hotSpot:[203.021149, 723.384094]}
+83	85.188	mouseUp	{button:1, clickCount:1, hotSpot:[203.021149, 723.384094]}
+84	92.246	mouseDown	{button:1, clickCount:1, hotSpot:[408.459229, 1147.88501]}
+85	93.286	mouseUp	{button:1, clickCount:1, hotSpot:[367.371613, 615.093079]}
+86	96.843	mouseDown	{button:1, clickCount:1, hotSpot:[379.456207, 1121.895142]}
+87	97.435	mouseUp	{button:1, clickCount:1, hotSpot:[379.456207, 794.856201]}
+88	101.641	mouseDown	{button:1, clickCount:1, hotSpot:[430.211487, 1134.890015]}
+89	102.056	mouseUp	{button:1, clickCount:1, hotSpot:[422.960754, 952.96106]}
+90	106.203	mouseDown	{button:1, clickCount:1, hotSpot:[725.075562, 1104.568604]}
+91	106.349	mouseUp	{button:1, clickCount:1, hotSpot:[725.075562, 1104.568604]}
+92	109.497	mouseDown	{button:1, clickCount:1, hotSpot:[476.132935, 740.710693]}
+93	110.005	mouseUp	{button:1, clickCount:1, hotSpot:[476.132935, 740.710693]}
+94	112.842	mouseDown	{button:1, clickCount:1, hotSpot:[384.290039, 1152.216553]}
+95	114.241	mouseUp	{button:1, clickCount:1, hotSpot:[432.628418, 73.637939]}
+96	117.572	mouseDown	{button:1, clickCount:1, hotSpot:[340.785522, 1160.879883]}
+97	118.863	mouseUp	{button:1, clickCount:1, hotSpot:[406.042297, 77.969604]}
+98	122.341	mouseDown	{button:1, clickCount:1, hotSpot:[352.870117, 1171.708984]}
+99	123.53	mouseUp	{button:1, clickCount:1, hotSpot:[377.039276, 90.964478]}
+100	127.244	mouseDown	{button:1, clickCount:1, hotSpot:[328.700928, 1169.543213]}
+101	128.35	mouseUp	{button:1, clickCount:1, hotSpot:[442.296082, 99.627808]}
+102	131.754	mouseDown	{button:1, clickCount:1, hotSpot:[377.039276, 1171.708984]}
+103	132.801	mouseUp	{button:1, clickCount:1, hotSpot:[430.211487, 77.969604]}
+104	136.454	mouseDown	{button:1, clickCount:1, hotSpot:[369.788544, 1165.211548]}
+105	137.78	mouseUp	{button:1, clickCount:1, hotSpot:[425.377655, 121.286011]}
+106	143.939	mouseDown	{button:1, clickCount:1, hotSpot:[372.205444, 1165.211548]}
+107	145.08	mouseUp	{button:1, clickCount:1, hotSpot:[381.873138, 86.632812]}
+108	148.347	mouseDown	{button:1, clickCount:1, hotSpot:[381.873138, 1176.040649]}
+109	149.344	mouseUp	{button:1, clickCount:1, hotSpot:[381.873138, 56.311401]}
+110	152.753	mouseDown	{button:1, clickCount:1, hotSpot:[418.126892, 1165.211548]}
+111	153.688	mouseUp	{button:1, clickCount:1, hotSpot:[420.543823, 101.793579]}
+112	159.852	mouseDown	{button:1, clickCount:1, hotSpot:[357.703949, 1182.538086]}
+113	160.764	mouseUp	{button:1, clickCount:1, hotSpot:[350.453186, 67.140503]}
+114	164.164	mouseDown	{button:1, clickCount:1, hotSpot:[377.039276, 1145.719116]}
+115	164.948	mouseUp	{button:1, clickCount:1, hotSpot:[456.797607, 75.803711]}
+116	169.046	mouseDown	{button:1, clickCount:1, hotSpot:[381.873138, 1156.548218]}
+117	169.761	mouseUp	{button:1, clickCount:1, hotSpot:[420.543823, 186.26062]}
+118	174.943	mouseDown	{button:1, clickCount:1, hotSpot:[732.326294, 825.177673]}
+119	175.077	mouseUp	{button:1, clickCount:1, hotSpot:[732.326294, 825.177673]}
+120	179.64	mouseDown	{button:1, clickCount:1, hotSpot:[364.954681, 836.006775]}
+121	180.069	mouseUp	{button:1, clickCount:1, hotSpot:[364.954681, 836.006775]}
+122	184.046	mouseDown	{button:1, clickCount:1, hotSpot:[553.474365, 1046.091431]}
+123	184.302	mouseUp	{button:1, clickCount:1, hotSpot:[553.474365, 1046.091431]}
+124	185.041	mouseDown	{button:1, clickCount:1, hotSpot:[543.806641, 851.16748]}
+125	185.336	mouseUp	{button:1, clickCount:1, hotSpot:[543.806641, 851.16748]}
+126	186.055	mouseDown	{button:1, clickCount:1, hotSpot:[572.809692, 948.629456]}
+127	186.326	mouseUp	{button:1, clickCount:1, hotSpot:[572.809692, 948.629456]}
+128	187.267	mouseDown	{button:1, clickCount:1, hotSpot:[178.851974, 838.172607]}
+129	187.534	mouseUp	{button:1, clickCount:1, hotSpot:[178.851974, 838.172607]}
+130	189.241	mouseDown	{button:1, clickCount:1, hotSpot:[45.921452, 1137.055908]}
+131	189.533	mouseUp	{button:1, clickCount:1, hotSpot:[45.921452, 1137.055908]}
+132	191.273	mouseDown	{button:1, clickCount:1, hotSpot:[67.673721, 961.62439]}
+133	191.551	mouseUp	{button:1, clickCount:1, hotSpot:[67.673721, 961.62439]}
+134	192.824	mouseDown	{button:1, clickCount:1, hotSpot:[24.169186, 1154.382446]}
+135	193.091	mouseUp	{button:1, clickCount:1, hotSpot:[24.169186, 1154.382446]}
+136	194.884	mouseDown	{button:1, clickCount:1, hotSpot:[536.555908, 1059.086304]}
+137	195.157	mouseUp	{button:1, clickCount:1, hotSpot:[536.555908, 1059.086304]}
+138	196.582	mouseDown	{button:1, clickCount:1, hotSpot:[546.223572, 846.835876]}
+139	196.856	mouseUp	{button:1, clickCount:1, hotSpot:[546.223572, 846.835876]}
+140	197.494	mouseDown	{button:1, clickCount:1, hotSpot:[580.060425, 950.795288]}
+141	197.794	mouseUp	{button:1, clickCount:1, hotSpot:[580.060425, 950.795288]}
+142	198.632	mouseDown	{button:1, clickCount:1, hotSpot:[176.435059, 846.835876]}
+143	198.885	mouseUp	{button:1, clickCount:1, hotSpot:[176.435059, 846.835876]}
+144	199.578	mouseDown	{button:1, clickCount:1, hotSpot:[420.543823, 955.126953]}
+145	199.869	mouseUp	{button:1, clickCount:1, hotSpot:[420.543823, 955.126953]}
+146	200.624	mouseDown	{button:1, clickCount:1, hotSpot:[616.314209, 853.333374]}
+147	200.923	mouseUp	{button:1, clickCount:1, hotSpot:[613.897278, 853.333374]}
+148	201.65	mouseDown	{button:1, clickCount:1, hotSpot:[256.193359, 857.664978]}
+149	201.947	mouseUp	{button:1, clickCount:1, hotSpot:[253.776443, 857.664978]}
+150	202.947	mouseDown	{button:1, clickCount:1, hotSpot:[473.716034, 1043.925537]}
+151	203.209	mouseUp	{button:1, clickCount:1, hotSpot:[473.716034, 1043.925537]}
+152	203.947	mouseDown	{button:1, clickCount:1, hotSpot:[696.07251, 1163.045654]}
+153	204.226	mouseUp	{button:1, clickCount:1, hotSpot:[696.07251, 1163.045654]}
+154	205.206	mouseDown	{button:1, clickCount:1, hotSpot:[471.299103, 1054.754639]}
+155	205.466	mouseUp	{button:1, clickCount:1, hotSpot:[471.299103, 1054.754639]}
+156	206.232	mouseDown	{button:1, clickCount:1, hotSpot:[181.26889, 859.830811]}
+157	206.514	mouseUp	{button:1, clickCount:1, hotSpot:[181.26889, 859.830811]}
+158	207.089	mouseDown	{button:1, clickCount:1, hotSpot:[333.53476, 846.835876]}
+159	207.35	mouseUp	{button:1, clickCount:1, hotSpot:[333.53476, 846.835876]}
+160	209.593	mouseDown	{button:1, clickCount:1, hotSpot:[215.105743, 1232.351929]}
+161	209.942	mouseUp	{button:1, clickCount:1, hotSpot:[215.105743, 1232.351929]}
+162	216.733	mouseDown	{button:1, clickCount:1, hotSpot:[161.933533, 749.373962]}
+163	217.246	mouseUp	{button:1, clickCount:1, hotSpot:[161.933533, 749.373962]}
+164	227.743	mouseDown	{button:1, clickCount:1, hotSpot:[372.205444, 1189.035522]}
+165	228.622	mouseUp	{button:1, clickCount:1, hotSpot:[413.29306, 385.516113]}
+166	234.472	end	

@@ -1,0 +1,12 @@
+﻿2015-05-06 10:23:56.105 +0100	START		Running navigate_brand.script
+2015-05-06 10:23:56.471 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:23:57.576 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 10:24:01.662 +0100	imagefound	nav_bar	found at (58, 136)	11	on_navigate_brand	navigate_brand.script
+2015-05-06 10:24:02.357 +0100	click	nav_bar	at (58, 136)	19	on_navigate_brand	navigate_brand.script
+2015-05-06 10:24:03.093 +0100	typetext		www	20	on_navigate_brand	navigate_brand.script
+2015-05-06 10:24:03.812 +0100	typetext		.	21	on_navigate_brand	navigate_brand.script
+2015-05-06 10:24:04.660 +0100	typetext		unilever.com	22	on_navigate_brand	navigate_brand.script
+2015-05-06 10:24:05.379 +0100	typetext		[return]	23	on_navigate_brand	navigate_brand.script
+2015-05-06 10:24:53.600 +0100	Exception	banner	No Image Found On Screen: "banner"	24	on_navigate_brand	navigate_brand.script
+2015-05-06 10:24:53.665 +0100	EndTestCase		(Duration:"57.546", Errors:"1", Exceptions:"1", StartTime:"2015-05-06 10:23:56 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:24:54.129 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "banner" -- Execution Time 0:00:57 navigate_brand.script

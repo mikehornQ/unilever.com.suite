@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="dotcom">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>31</NumberOfRuns>
+  <NumberOfFails>21</NumberOfFails>
+  <FirstRun>2015-05-06 10:11:04 +0100</FirstRun>
+  <LastRun>2015-05-07 09:29:10 +0100</LastRun>
+  <TotalTimeOnSuccess>1290.201000</TotalTimeOnSuccess>
+ </script>
+ <script name="scroll_list">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2015-05-07 09:43:22 +0100</FirstRun>
+  <LastRun>2015-05-07 09:43:22 +0100</LastRun>
+  <TotalTimeOnSuccess>nan</TotalTimeOnSuccess>
+ </script>
+</statistics>

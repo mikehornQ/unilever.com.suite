@@ -1,0 +1,17 @@
+﻿2015-05-06 11:36:15.591 +0100	START		Running navigate_brand.script
+2015-05-06 11:36:19.261 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:22.204 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:27.476 +0100	click	close_tab	at (238, 61)	10	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:28.187 +0100	moveto		at (400, 1100)	12	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:29.243 +0100	imagefound	nav_bar_new3	found at (253, 140)	13	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:29.684 +0100	click	nav_bar_new3	at (253, 140)	19	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:30.421 +0100	typetext		www	20	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:31.140 +0100	typetext		.	21	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:32.000 +0100	typetext		unilever.com	22	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:32.733 +0100	typetext		[return]	23	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:49.629 +0100	click	banner	at (752, 211)	24	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:53.035 +0100	click	Brands	at (45, 343)	25	on_navigate_brand	navigate_brand.script
+2015-05-06 11:36:57.688 +0100	click	Brandshome	at (45, 343)	26	on_navigate_brand	navigate_brand.script
+2015-05-06 11:37:07.021 +0100	click	HiTypeabrandname_new2	at (43, 915)	27	on_navigate_brand	navigate_brand.script
+2015-05-06 11:37:27.655 +0100	EndTestCase		(Duration:"72.05", Errors:"1", Exceptions:"0", StartTime:"2015-05-06 11:36:15 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 11:37:27.664 +0100	ABORTED		Execution Time 0:01:12 navigate_brand.script

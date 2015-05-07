@@ -1,0 +1,21 @@
+﻿2015-05-06 10:56:58.883 +0100	START		Running navigate_brand.script
+2015-05-06 10:57:02.336 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:05.861 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:08.970 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 1.00 seconds	11	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:08.986 +0100	moveto		at (400, 1100)	13	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:09.687 +0100	scrollwheelup		moved 1	14	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:17.978 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:17.995 +0100	moveto		at (400, 1100)	13	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:18.696 +0100	scrollwheelup		moved 1	14	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:25.324 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:25.343 +0100	moveto		at (400, 1100)	13	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:26.044 +0100	scrollwheelup		moved 1	14	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:27.892 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:27.913 +0100	moveto		at (400, 1100)	13	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:28.614 +0100	scrollwheelup		moved 1	14	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:31.130 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:31.150 +0100	moveto		at (400, 1100)	13	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:31.849 +0100	scrollwheelup		moved 1	14	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:37.678 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 10:57:37.736 +0100	EndTestCase		(Duration:"38.841", Errors:"1", Exceptions:"0", StartTime:"2015-05-06 10:56:58 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:57:37.744 +0100	ABORTED		Execution Time 0:00:39 navigate_brand.script

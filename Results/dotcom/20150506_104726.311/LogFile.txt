@@ -1,0 +1,24 @@
+﻿2015-05-06 10:47:26.320 +0100	START		Running navigate_brand.script
+2015-05-06 10:47:27.047 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:47:32.199 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 10:47:36.183 +0100	imagefound	nav_bar_new	found at (154, 133)	11	on_navigate_brand	navigate_brand.script
+2015-05-06 10:47:39.351 +0100	click	nav_bar_new	at (154, 133)	19	on_navigate_brand	navigate_brand.script
+2015-05-06 10:47:40.087 +0100	typetext		www	20	on_navigate_brand	navigate_brand.script
+2015-05-06 10:47:40.854 +0100	typetext		.	21	on_navigate_brand	navigate_brand.script
+2015-05-06 10:47:41.703 +0100	typetext		unilever.com	22	on_navigate_brand	navigate_brand.script
+2015-05-06 10:47:42.422 +0100	typetext		[return]	23	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:00.254 +0100	click	banner	at (752, 211)	24	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:04.534 +0100	click	Brands	at (45, 343)	25	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:08.760 +0100	click	Brandshome	at (45, 343)	26	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:20.960 +0100	click	HiTypeabrandname_new	at (67, 944)	27	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:26.658 +0100	click	kb_D	at (217, 943)	28	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:27.681 +0100	click	kb_o	at (616, 856)	29	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:29.153 +0100	click	kb_v	at (319, 1044)	30	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:30.300 +0100	click	kb_e	at (172, 851)	31	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:32.567 +0100	click	dropdown_Dove	at (43, 566)	32	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:40.271 +0100	click	hide_kb	at (219, 1245)	33	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:43.327 +0100	click	Country	at (335, 900)	34	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:46.993 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	37	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:47.006 +0100	Exception	400	Could Not Open Image: 400	39	on_navigate_brand	navigate_brand.script
+2015-05-06 10:48:47.070 +0100	EndTestCase		(Duration:"80.737", Errors:"1", Exceptions:"1", StartTime:"2015-05-06 10:47:26 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:48:48.535 +0100	FAILURE	Screen_Error.png	File Not Found moveto Error - Could Not Open Image: 400 -- Execution Time 0:01:21 navigate_brand.script

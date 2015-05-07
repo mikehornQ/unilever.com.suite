@@ -1,0 +1,11 @@
+﻿2015-05-06 10:42:17.520 +0100	START		Running navigate_brand.script
+2015-05-06 10:42:18.453 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:42:20.752 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 10:42:32.377 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 10.00 seconds	11	on_navigate_brand	navigate_brand.script
+2015-05-06 10:42:32.387 +0100	scrollwheelup		moved 1	14	on_navigate_brand	navigate_brand.script
+2015-05-06 10:42:44.319 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 10.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 10:42:44.328 +0100	scrollwheelup		moved 1	14	on_navigate_brand	navigate_brand.script
+2015-05-06 10:42:56.148 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 10.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 10:42:56.156 +0100	scrollwheelup		moved 1	14	on_navigate_brand	navigate_brand.script
+2015-05-06 10:43:01.566 +0100	EndTestCase		(Duration:"43.993", Errors:"1", Exceptions:"0", StartTime:"2015-05-06 10:42:17 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:43:01.574 +0100	ABORTED		Execution Time 0:00:44 navigate_brand.script

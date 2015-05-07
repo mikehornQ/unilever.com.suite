@@ -1,0 +1,7 @@
+﻿2015-05-06 10:17:01.193 +0100	START		Running navigate_brand.script
+2015-05-06 10:17:01.841 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:17:02.845 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 10:17:06.035 +0100	imagefound	nav_bar	found at (58, 136)	11	on_navigate_brand	navigate_brand.script
+2015-05-06 10:17:38.466 +0100	Exception	PSearchorenteraddress	No Image Found On Screen: "PSearchorenteraddress"	19	on_navigate_brand	navigate_brand.script
+2015-05-06 10:17:38.517 +0100	EndTestCase		(Duration:"37.31", Errors:"1", Exceptions:"1", StartTime:"2015-05-06 10:17:01 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:17:38.835 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "PSearchorenteraddress" -- Execution Time 0:00:37 navigate_brand.script

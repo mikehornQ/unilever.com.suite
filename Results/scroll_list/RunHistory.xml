@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="scroll_list">
+ <run>
+  <RunDate>2015-05-07 09:43:22.856 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.124000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150507_094322.856/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: (empty)</ErrorMessage>
+ </run>
+</runHistory>

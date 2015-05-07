@@ -1,0 +1,23 @@
+﻿2015-05-06 12:08:59.519 +0100	START		Running navigate_brand.script
+2015-05-06 12:09:03.830 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:07.270 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:10.901 +0100	click	close_tab	at (479, 61)	10	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:13.142 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	12	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:13.210 +0100	draganddrop		begin drag from (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:14.609 +0100	draganddrop		drag #2 to (400, 400)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:14.920 +0100	draganddrop		dropped at (400, 400)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:18.071 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:18.144 +0100	draganddrop		begin drag from (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:19.541 +0100	draganddrop		drag #2 to (400, 400)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:19.852 +0100	draganddrop		dropped at (400, 400)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:25.469 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:25.538 +0100	draganddrop		begin drag from (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:26.976 +0100	draganddrop		drag #2 to (400, 400)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:27.288 +0100	draganddrop		dropped at (400, 400)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:31.078 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:31.147 +0100	draganddrop		begin drag from (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:32.539 +0100	draganddrop		drag #2 to (400, 400)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:32.860 +0100	draganddrop		dropped at (400, 400)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:36.798 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 12:09:36.929 +0100	EndTestCase		(Duration:"37.396", Errors:"1", Exceptions:"0", StartTime:"2015-05-06 12:08:59 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 12:09:36.938 +0100	ABORTED		Execution Time 0:00:37 navigate_brand.script

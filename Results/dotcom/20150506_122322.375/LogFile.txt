@@ -1,0 +1,14 @@
+﻿2015-05-06 12:23:22.384 +0100	START		Running navigate_brand.script
+2015-05-06 12:23:23.209 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 12:23:26.253 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 12:23:29.644 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	12	on_navigate_brand	navigate_brand.script
+2015-05-06 12:23:50.051 +0100	draganddrop		begin drag from (400, 100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:23:51.743 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:23:52.073 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:24:13.658 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 12:24:45.159 +0100	draganddrop		begin drag from (400, 100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:24:46.843 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:24:47.153 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:24:50.499 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 12:24:54.486 +0100	EndTestCase		(Duration:"92.092", Errors:"1", Exceptions:"0", StartTime:"2015-05-06 12:23:22 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 12:24:54.494 +0100	ABORTED		Execution Time 0:01:32 navigate_brand.script

@@ -1,0 +1,90 @@
+﻿2015-05-07 09:29:10.656 +0100	START		Running dotcom.script
+2015-05-07 09:29:12.458 +0100	click	droid_home	at (398, 1236)	8	on_dotcom	dotcom.script
+2015-05-07 09:29:14.805 +0100	click	browser	at (739, 1134)	9	on_dotcom	dotcom.script
+2015-05-07 09:29:19.509 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	12	function_scroll_list	scroll_list.script
+2015-05-07 09:29:19.597 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:21.410 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:21.735 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:34.674 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:29:34.767 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:36.572 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:36.883 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:48.125 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:29:48.245 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:50.034 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:50.354 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:57.354 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:29:57.446 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:59.252 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:29:59.563 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:11.185 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:30:11.305 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:13.114 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:13.439 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:18.965 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:30:19.069 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:20.863 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:21.175 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:25.667 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:30:25.775 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:27.562 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:27.872 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:33.245 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:30:33.341 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:35.148 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:35.461 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:39.562 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:30:39.658 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:41.446 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:41.772 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:46.895 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:30:46.991 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:48.801 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:49.112 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:54.362 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:30:54.454 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:56.242 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:56.572 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:30:59.889 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:30:59.998 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:01.796 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:02.111 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:12.729 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:31:12.821 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:14.624 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:14.948 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:26.638 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:31:26.923 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:28.725 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:29.050 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:41.904 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:31:41.996 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:43.788 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:44.120 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:56.247 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:31:56.351 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:58.146 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:31:58.458 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:09.847 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:32:09.959 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:11.747 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:12.059 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:23.888 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:32:24.000 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:25.788 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:26.101 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:33.737 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:32:33.834 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:35.643 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:35.967 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:41.062 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:32:41.342 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:43.140 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:43.476 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:47.754 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:32:47.845 +0100	draganddrop		begin drag from (400, 200)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:49.651 +0100	draganddrop		drag #2 to (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:49.965 +0100	draganddrop		dropped at (400, 1100)	14	function_scroll_list	scroll_list.script
+2015-05-07 09:32:57.185 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	17	function_scroll_list	scroll_list.script
+2015-05-07 09:32:57.293 +0100	EndTestCase		(Duration:"226.629", Errors:"1", Exceptions:"0", StartTime:"2015-05-07 09:29:10 +0100", Successes:"0", TestCase:"dotcom.script", Warnings:"0")
+2015-05-07 09:32:57.625 +0100	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'name' -- Execution Time 0:03:47 dotcom.script

@@ -1,0 +1,23 @@
+﻿2015-05-06 12:28:22.452 +0100	START		Running navigate_brand.script
+2015-05-06 12:28:23.690 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 12:28:29.970 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 12:28:35.209 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	12	on_navigate_brand	navigate_brand.script
+2015-05-06 12:28:45.927 +0100	draganddrop		begin drag from (400, 200)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:28:47.511 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:28:47.865 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:28:49.248 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:02.140 +0100	draganddrop		begin drag from (400, 200)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:03.733 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:04.041 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:06.445 +0100	imagefound	nav_bar_new3	Unable to Find Image nav_bar_new3 within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:32.133 +0100	draganddrop		begin drag from (400, 200)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:33.721 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:34.028 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:34.471 +0100	imagefound	nav_bar_new3	found at (301, 58)	16	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:36.601 +0100	click	close_tab	at (238, 61)	18	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:39.234 +0100	click	nav_bar_new3	at (367, 58)	20	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:40.123 +0100	typetext		www.unilever.com	21	on_navigate_brand	navigate_brand.script
+2015-05-06 12:29:40.853 +0100	typetext		[return]	22	on_navigate_brand	navigate_brand.script
+2015-05-06 12:30:31.702 +0100	Exception	banner	No Image Found On Screen: "banner"	23	on_navigate_brand	navigate_brand.script
+2015-05-06 12:30:31.778 +0100	EndTestCase		(Duration:"129.316", Errors:"1", Exceptions:"1", StartTime:"2015-05-06 12:28:22 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 12:30:32.302 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "banner" -- Execution Time 0:02:09 navigate_brand.script

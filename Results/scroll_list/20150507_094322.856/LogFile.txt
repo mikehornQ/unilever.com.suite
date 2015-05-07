@@ -1,0 +1,4 @@
+﻿2015-05-07 09:43:22.868 +0100	START		Running scroll_list.script
+2015-05-07 09:43:22.928 +0100	Exception		Could Not Open Image: (empty)	12	on_scroll_list	scroll_list.script
+2015-05-07 09:43:22.984 +0100	EndTestCase		(Duration:"0.104", Errors:"1", Exceptions:"1", StartTime:"2015-05-07 09:43:22 +0100", Successes:"0", TestCase:"scroll_list.script", Warnings:"0")
+2015-05-07 09:43:26.194 +0100	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: (empty) -- Execution Time 0:00:00 scroll_list.script

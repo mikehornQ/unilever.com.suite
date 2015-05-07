@@ -1,0 +1,29 @@
+﻿2015-05-06 13:11:32.328 +0100	START		Running navigate_brand.script
+2015-05-06 13:11:33.717 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:37.342 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:39.997 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	12	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:40.109 +0100	draganddrop		begin drag from (400, 200)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:41.711 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:42.065 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:45.697 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:45.804 +0100	draganddrop		begin drag from (400, 200)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:47.404 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:47.712 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:55.296 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:55.437 +0100	draganddrop		begin drag from (400, 200)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:57.025 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:57.343 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:11:59.934 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:00.024 +0100	draganddrop		begin drag from (400, 200)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:01.619 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:01.941 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:04.432 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:04.523 +0100	draganddrop		begin drag from (400, 200)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:06.127 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:06.448 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:14.125 +0100	imagefound	navbar	Unable to Find Image navbar within 1.00 seconds	16	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:14.299 +0100	draganddrop		begin drag from (400, 200)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:15.882 +0100	draganddrop		drag #2 to (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:16.196 +0100	draganddrop		dropped at (400, 1100)	14	on_navigate_brand	navigate_brand.script
+2015-05-06 13:12:17.101 +0100	EndTestCase		(Duration:"44.759", Errors:"1", Exceptions:"0", StartTime:"2015-05-06 13:11:32 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 13:12:17.122 +0100	ABORTED		Execution Time 0:00:45 navigate_brand.script

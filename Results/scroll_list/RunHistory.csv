@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2015-05-07 09:43:22.856 +0100,"Failure",0:00:00,1,0,1,"20150507_094322.856/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: (empty)",0

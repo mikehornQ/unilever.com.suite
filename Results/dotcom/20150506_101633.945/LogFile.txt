@@ -1,0 +1,4 @@
+﻿2015-05-06 10:16:33.953 +0100	START		Running navigate_brand.script
+2015-05-06 10:16:35.782 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:16:35.901 +0100	EndTestCase		(Duration:"1.937", Errors:"1", Exceptions:"0", StartTime:"2015-05-06 10:16:33 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:16:36.771 +0100	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'imagefound' was called as a Command, but is only available as a Function -- Execution Time 0:00:02 navigate_brand.script

@@ -1,0 +1,12 @@
+﻿2015-05-06 12:37:23.842 +0100	START		Running navigate_brand.script
+2015-05-06 12:37:28.099 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 12:37:31.257 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 12:37:31.855 +0100	imagefound	nav_bar_new3	found at (256, 416)	11	on_navigate_brand	navigate_brand.script
+2015-05-06 12:37:32.669 +0100	click	nav_bar_new3	at (256, 416)	19	on_navigate_brand	navigate_brand.script
+2015-05-06 12:37:33.556 +0100	typetext		www.unilever.com	20	on_navigate_brand	navigate_brand.script
+2015-05-06 12:37:34.275 +0100	typetext		[return]	21	on_navigate_brand	navigate_brand.script
+2015-05-06 12:37:51.393 +0100	click	banner	at (752, 211)	22	on_navigate_brand	navigate_brand.script
+2015-05-06 12:37:54.595 +0100	click	Brands	at (45, 343)	23	on_navigate_brand	navigate_brand.script
+2015-05-06 12:38:21.662 +0100	Exception	Brandshome	No Image Found On Screen: "Brandshome"	24	on_navigate_brand	navigate_brand.script
+2015-05-06 12:38:21.751 +0100	EndTestCase		(Duration:"57.895", Errors:"1", Exceptions:"1", StartTime:"2015-05-06 12:37:23 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 12:38:21.763 +0100	ABORTED		Execution Time 0:00:58 navigate_brand.script

@@ -1,0 +1,4 @@
+﻿2015-05-06 10:11:04.219 +0100	START		Running navigate_brand.script
+2015-05-06 10:11:38.902 +0100	Exception	droid_home	No Image Found On Screen: "droid_home"	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:11:38.963 +0100	EndTestCase		(Duration:"34.729", Errors:"1", Exceptions:"1", StartTime:"2015-05-06 10:11:04 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:11:39.504 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "droid_home" -- Execution Time 0:00:34 navigate_brand.script

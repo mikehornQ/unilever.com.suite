@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="dotcom.script" package="unilever.com.suite" timestamp="2015-05-07 09:24:29.431 +0100"
+ tests="1" successes="0" errors="1" time="7.600000">
+  <properties>
+   <property name="RunDate" value="2015-05-07 09:24:29.431 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="dotcom.script" assertions="1" successes="0" errors="1" time="7.58">
+  </testcase>
+ </testsuite>
+</testsuites>

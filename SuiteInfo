@@ -1,0 +1,1 @@
+﻿{EPVersionNumber = 1505032227; Schedules = ({ChangeCount = 4; Name = "Schedule 1"; Schedule = ({Num = 4; Run = YES; Script = "navigate_brand.script"; }); }); ScriptMetaData = {}; helpedSuitesInfo = (); helperSuitesInfo = (); }

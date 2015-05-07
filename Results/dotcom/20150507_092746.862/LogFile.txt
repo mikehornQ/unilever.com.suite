@@ -1,0 +1,6 @@
+﻿2015-05-07 09:27:46.874 +0100	START		Running dotcom.script
+2015-05-07 09:27:49.819 +0100	click	droid_home	at (398, 1236)	8	on_dotcom	dotcom.script
+2015-05-07 09:27:53.754 +0100	click	browser	at (623, 1130)	9	on_dotcom	dotcom.script
+2015-05-07 09:27:57.167 +0100	imagefound	navbar	found at (161, 135)	12	function_scroll_list	scroll_list.script
+2015-05-07 09:27:57.319 +0100	EndTestCase		(Duration:"10.401", Errors:"1", Exceptions:"0", StartTime:"2015-05-07 09:27:46 +0100", Successes:"0", TestCase:"dotcom.script", Warnings:"0")
+2015-05-07 09:28:00.132 +0100	FAILURE	Screen_Error.png	STInvalidNumber Value is not a number: 'Scrolled ' -- Execution Time 0:00:11 dotcom.script

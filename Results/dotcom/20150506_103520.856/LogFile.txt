@@ -1,0 +1,7 @@
+﻿2015-05-06 10:35:20.865 +0100	START		Running navigate_brand.script
+2015-05-06 10:35:21.398 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:35:24.777 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 10:35:36.785 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 10.00 seconds	11	on_navigate_brand	navigate_brand.script
+2015-05-06 10:36:16.935 +0100	Exception	anchor_bottom	No Image Found On Screen: "anchor_bottom"	13	on_navigate_brand	navigate_brand.script
+2015-05-06 10:36:16.994 +0100	EndTestCase		(Duration:"56.118", Errors:"1", Exceptions:"1", StartTime:"2015-05-06 10:35:20 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:36:17.340 +0100	FAILURE	Screen_Error.png	Image Not Found moveto Error - No Image Found On Screen: "anchor_bottom" -- Execution Time 0:00:56 navigate_brand.script

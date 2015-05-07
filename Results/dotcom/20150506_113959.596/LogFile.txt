@@ -1,0 +1,176 @@
+﻿2015-05-06 11:39:59.603 +0100	START		Running navigate_brand.script
+2015-05-06 11:40:03.312 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:05.869 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:09.003 +0100	click	close_tab	at (238, 61)	10	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:09.712 +0100	moveto		at (400, 1100)	12	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:11.520 +0100	imagefound	nav_bar_new3	found at (253, 140)	13	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:12.882 +0100	click	nav_bar_new3	at (253, 140)	19	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:13.620 +0100	typetext		www	20	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:14.352 +0100	typetext		.	21	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:15.215 +0100	typetext		unilever.com	22	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:15.946 +0100	typetext		[return]	23	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:32.657 +0100	click	banner	at (752, 211)	24	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:36.340 +0100	click	Brands	at (45, 343)	25	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:40.419 +0100	click	Brandshome	at (45, 343)	26	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:52.484 +0100	click	HiTypeabrandname_new3	at (42, 945)	27	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:56.089 +0100	click	kb_D	at (217, 943)	28	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:57.069 +0100	click	kb_o	at (616, 856)	29	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:58.376 +0100	click	kb_v	at (319, 1044)	30	on_navigate_brand	navigate_brand.script
+2015-05-06 11:40:59.852 +0100	click	kb_e	at (172, 851)	31	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:00.957 +0100	click	dropdown_Dove	at (43, 566)	32	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:07.199 +0100	click	hide_kb	at (219, 1245)	33	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:09.286 +0100	click	Country	at (335, 900)	34	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:09.996 +0100	moveto		at (400, 1100)	37	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:12.993 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	38	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:13.001 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:19.682 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:19.690 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:26.006 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:26.014 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:32.098 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:32.106 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:38.201 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:38.209 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:44.348 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:44.356 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:50.663 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:50.671 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:56.921 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:56.929 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:59.298 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:41:59.306 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:05.494 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:05.504 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:08.035 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:08.043 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:14.326 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:14.334 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:20.569 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:20.607 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:26.881 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:26.889 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:33.147 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:33.155 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:39.447 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:39.455 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:45.743 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:45.750 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:52.128 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:52.136 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:58.422 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:42:58.429 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:05.437 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:05.445 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:11.736 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:11.745 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:18.056 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:18.064 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:24.354 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:24.362 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:30.713 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:30.721 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:34.219 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:34.226 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:40.656 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:40.664 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:47.117 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:47.125 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:53.457 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:53.465 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:59.867 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:43:59.879 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:06.607 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:06.620 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:13.298 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:13.310 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:20.550 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:20.564 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:22.328 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:22.340 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:25.463 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:25.475 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:31.926 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:31.936 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:38.400 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:38.408 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:44.892 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:44.901 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:51.381 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:51.391 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:57.897 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:44:57.904 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:01.668 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:01.677 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:06.200 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:06.208 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:08.609 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:08.620 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:15.366 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:15.378 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:22.050 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:22.061 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:28.779 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:28.790 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:35.497 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:35.507 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:38.113 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:38.143 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:41.822 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:41.833 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:45.821 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:45.832 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:52.374 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:52.384 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:55.176 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:55.187 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:57.886 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:45:57.894 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:04.911 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:04.921 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:07.334 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:07.343 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:11.576 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:11.587 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:15.133 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:15.145 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:19.524 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:19.533 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:22.276 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:22.285 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:28.940 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:28.949 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:35.681 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:35.692 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:39.811 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:39.821 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:41.055 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:41.064 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:43.782 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:43.792 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:48.551 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:48.563 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:55.369 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:55.381 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:57.813 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:46:57.821 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:01.668 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:01.681 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:04.111 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:04.119 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:10.847 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:10.862 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:14.575 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:14.583 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:19.325 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:19.334 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:23.340 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:23.353 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:30.014 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:30.024 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:36.614 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:36.621 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:43.281 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:43.291 +0100	scrollwheeldown		moved 1	40	on_navigate_brand	navigate_brand.script
+2015-05-06 11:47:47.164 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	42	on_navigate_brand	navigate_brand.script
+2015-05-06 11:48:31.787 +0100	EndTestCase		(Duration:"512.172", Errors:"1", Exceptions:"0", StartTime:"2015-05-06 11:39:59 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 11:48:31.796 +0100	ABORTED		Execution Time 0:08:32 navigate_brand.script

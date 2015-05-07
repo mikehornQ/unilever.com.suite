@@ -1,0 +1,6 @@
+﻿2015-05-06 10:37:22.400 +0100	START		Running navigate_brand.script
+2015-05-06 10:37:22.981 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:37:25.207 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 10:37:36.895 +0100	imagefound	nav_bar_new	Unable to Find Image nav_bar_new within 10.00 seconds	11	on_navigate_brand	navigate_brand.script
+2015-05-06 10:39:49.879 +0100	EndTestCase		(Duration:"147.465", Errors:"1", Exceptions:"0", StartTime:"2015-05-06 10:37:22 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:39:49.888 +0100	ABORTED		Execution Time 0:02:27 navigate_brand.script

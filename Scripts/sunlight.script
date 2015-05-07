@@ -1,0 +1,65 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2015-05-06 15:31:14
+  From session:  sunlight
+  Captured on:  2015-05-06 15:18:45
+  From server:  Nexus 7
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "droid_home"
+Click "browser"
+
+scroll_list("navbar", (400,200), (400,1100), 1)
+
+Click "navbar"
+
+TypeText "www.projectsunlight.co.uk",Return
+
+scroll_list("raiseyourvoice", (400,200), (400,800), 1)
+
+Click "raiseyourvoice"
+
+Click "first_name"
+Click "kb_M"
+Click "kb_i"
+Click "kb_k"
+Click "kb_e"
+
+Click "surname"
+Click "kb_H"
+Click "kb_o"
+Click "kb_r"
+Click "kb_n"
+
+Click "yob"
+scroll_list("yr_1969", (400,1100), (400,200), 1)
+Click "yr_1969"
+
+Click "vlChooseaCountry"
+scroll_list("uk&ireland", (400,1100), (400,200), 1)
+Click "uk&ireland"
+
+Click "email"
+Click "kb_m"
+Click "kb_i"
+Click "kb_k"
+Click "kb_e"
+Click "kb_num"
+Click "kb_at"
+Click "kb_txt"
+Click "kb_m"
+Click "kb_i"
+Click "kb_k"
+Click "kb_e"
+Click "ghj"
+Click "kb_o"
+Click "kb_r"
+Click "kb_n"
+Click "image0027"
+Click "kb_n"
+Click "kb_e"
+Click "rtv"
+
+Click "hide_kb"
+
+Click "image0030"
+

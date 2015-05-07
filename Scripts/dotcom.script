@@ -1,0 +1,48 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2015-05-06 10:01:49
+  From session:  navigate_brand
+  Captured on:  2015-05-06 09:31:50
+  From server:  Nexus 7
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "droid_home"
+Click "browser"
+
+(*
+repeat until imagefound(1,"navbar")
+	
+	DragAndDrop (400,200), (400,1100)
+	
+end repeat
+*)
+
+put scroll_list("navbar", (400,200), (400,1100), 1) into iter
+
+Click "navbar"
+TypeText "www.unilever.com"
+TypeText Return
+Click "banner"
+Click "Brands"
+Click "Brandshome"
+Click "HiTypeabrandname_new3"
+Click "kb_D"
+Click "kb_o"
+Click "kb_v"
+Click "kb_e"
+Click "dropdown_Dove"
+Click "hide_kb"
+Click "Country"
+
+(*repeat until imagefound(1,"uk&ireland")
+	
+	DragAndDrop (400,1100), (400,100)
+	
+end repeat*)
+
+put scroll_list("uk&ireland", (400,1100), (400,100), 1) into iter 
+
+
+Click "uk&ireland"
+Click "Gotopage"
+
+wait (30)

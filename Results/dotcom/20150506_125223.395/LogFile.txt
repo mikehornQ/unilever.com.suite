@@ -1,0 +1,33 @@
+﻿2015-05-06 12:52:23.406 +0100	START		Running navigate_brand.script
+2015-05-06 12:52:25.181 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 12:52:27.532 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 12:52:29.128 +0100	imagefound	nav_bar_new3	found at (256, 416)	11	on_navigate_brand	navigate_brand.script
+2015-05-06 12:52:43.599 +0100	click	nav_bar_new3	at (389, 59)	19	on_navigate_brand	navigate_brand.script
+2015-05-06 12:53:44.871 +0100	typetext		www	20	on_navigate_brand	navigate_brand.script
+2015-05-06 12:53:47.963 +0100	typetext		.	21	on_navigate_brand	navigate_brand.script
+2015-05-06 12:53:49.772 +0100	typetext		unilever.com	22	on_navigate_brand	navigate_brand.script
+2015-05-06 12:53:53.484 +0100	typetext		[return]	23	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:06.201 +0100	click	banner	at (752, 211)	24	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:10.338 +0100	click	Brands	at (45, 343)	25	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:13.706 +0100	click	Brandshome	at (45, 343)	26	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:24.575 +0100	click	HiTypeabrandname_new3	at (42, 945)	27	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:28.160 +0100	click	kb_D	at (217, 945)	28	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:30.083 +0100	click	kb_o	at (616, 856)	29	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:31.423 +0100	click	kb_v	at (319, 1044)	30	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:32.806 +0100	click	kb_e	at (172, 851)	31	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:34.068 +0100	click	dropdown_Dove	at (43, 566)	32	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:39.673 +0100	click	hide_kb	at (219, 1245)	33	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:42.029 +0100	click	Country	at (335, 900)	34	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:45.103 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	36	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:45.191 +0100	draganddrop		begin drag from (400, 1100)	38	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:46.877 +0100	draganddrop		drag #2 to (400, 100)	38	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:47.187 +0100	draganddrop		dropped at (400, 100)	38	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:51.321 +0100	imagefound	uk&ireland	Unable to Find Image uk&ireland within 1.00 seconds	40	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:51.419 +0100	draganddrop		begin drag from (400, 1100)	38	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:53.106 +0100	draganddrop		drag #2 to (400, 100)	38	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:53.417 +0100	draganddrop		dropped at (400, 100)	38	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:55.347 +0100	imagefound	uk&ireland	found at (734, 934)	40	on_navigate_brand	navigate_brand.script
+2015-05-06 12:54:57.694 +0100	click	uk&ireland	at (734, 934)	44	on_navigate_brand	navigate_brand.script
+2015-05-06 12:55:00.727 +0100	click	Gotopage	at (416, 884)	45	on_navigate_brand	navigate_brand.script
+2015-05-06 12:55:00.809 +0100	EndTestCase		(Duration:"157.389", Errors:"0", Exceptions:"0", StartTime:"2015-05-06 12:52:23 +0100", Successes:"1", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 12:55:01.113 +0100	SUCCESS		Execution Time 0:02:37 navigate_brand.script

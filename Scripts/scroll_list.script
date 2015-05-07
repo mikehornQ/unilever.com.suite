@@ -1,0 +1,36 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2015-05-06 10:01:49
+  From session:  navigate_brand
+  Captured on:  2015-05-06 09:31:50
+  From server:  Nexus 7
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+params (img, fromxy, toxy, pause)
+
+put 0 into num_scrolls
+
+repeat until imagefound(pause, img) or num_scrolls > 20
+	
+	DragAndDrop fromxy, toxy
+	add 1 to num_scrolls
+	
+end repeat
+
+if num_scrolls = 21 
+	logerror "Unable to locate" + img
+else	
+	log "Scrolled " + num_scrolls  as string + " times to find " + img
+end if
+
+return x
+
+(*repeat until imagefound(1,"navbar")
+		
+	DragAndDrop (400,200), (400,1100)
+		
+	end repeat*)
+
+
+
+
+

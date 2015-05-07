@@ -1,0 +1,16 @@
+﻿2015-05-06 10:53:22.887 +0100	START		Running navigate_brand.script
+2015-05-06 10:53:26.046 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:53:28.364 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 10:53:31.025 +0100	imagefound	nav_bar_new	found at (154, 133)	11	on_navigate_brand	navigate_brand.script
+2015-05-06 10:53:34.390 +0100	click	nav_bar_new	at (154, 133)	19	on_navigate_brand	navigate_brand.script
+2015-05-06 10:53:35.125 +0100	typetext		www	20	on_navigate_brand	navigate_brand.script
+2015-05-06 10:53:35.855 +0100	typetext		.	21	on_navigate_brand	navigate_brand.script
+2015-05-06 10:53:36.702 +0100	typetext		unilever.com	22	on_navigate_brand	navigate_brand.script
+2015-05-06 10:53:37.433 +0100	typetext		[return]	23	on_navigate_brand	navigate_brand.script
+2015-05-06 10:53:54.824 +0100	click	banner	at (752, 211)	24	on_navigate_brand	navigate_brand.script
+2015-05-06 10:54:01.327 +0100	click	Brands	at (45, 343)	25	on_navigate_brand	navigate_brand.script
+2015-05-06 10:54:07.799 +0100	click	Brandshome	at (45, 343)	26	on_navigate_brand	navigate_brand.script
+2015-05-06 10:54:17.256 +0100	click	HiTypeabrandname_new	at (67, 917)	27	on_navigate_brand	navigate_brand.script
+2015-05-06 10:55:00.849 +0100	Exception	kb_D	No Image Found On Screen: "kb_D"	28	on_navigate_brand	navigate_brand.script
+2015-05-06 10:55:00.913 +0100	EndTestCase		(Duration:"98.012", Errors:"1", Exceptions:"1", StartTime:"2015-05-06 10:53:22 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:55:01.227 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "kb_D" -- Execution Time 0:01:38 navigate_brand.script

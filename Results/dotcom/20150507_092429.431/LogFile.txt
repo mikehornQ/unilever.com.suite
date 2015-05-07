@@ -1,0 +1,5 @@
+﻿2015-05-07 09:24:29.439 +0100	START		Running dotcom.script
+2015-05-07 09:24:31.427 +0100	click	droid_home	at (398, 1236)	8	on_dotcom	dotcom.script
+2015-05-07 09:24:36.951 +0100	click	browser	at (623, 1130)	9	on_dotcom	dotcom.script
+2015-05-07 09:24:37.031 +0100	EndTestCase		(Duration:"7.58", Errors:"1", Exceptions:"0", StartTime:"2015-05-07 09:24:29 +0100", Successes:"0", TestCase:"dotcom.script", Warnings:"0")
+2015-05-07 09:24:37.742 +0100	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'scroll_list' -- Execution Time 0:00:08 dotcom.script

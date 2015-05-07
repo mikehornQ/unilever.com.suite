@@ -1,0 +1,6 @@
+﻿2015-05-06 10:29:53.920 +0100	START		Running navigate_brand.script
+2015-05-06 10:29:57.740 +0100	click	droid_home	at (398, 1236)	8	on_navigate_brand	navigate_brand.script
+2015-05-06 10:29:58.991 +0100	click	firefox	at (732, 1122)	9	on_navigate_brand	navigate_brand.script
+2015-05-06 10:29:59.040 +0100	Exception	nav_bar	Could Not Open Image: nav_bar	11	on_navigate_brand	navigate_brand.script
+2015-05-06 10:29:59.108 +0100	EndTestCase		(Duration:"5.175", Errors:"1", Exceptions:"1", StartTime:"2015-05-06 10:29:53 +0100", Successes:"0", TestCase:"navigate_brand.script", Warnings:"0")
+2015-05-06 10:30:01.196 +0100	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: nav_bar -- Execution Time 0:00:06 navigate_brand.script

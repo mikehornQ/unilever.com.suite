@@ -1,0 +1,617 @@
+﻿<?xml version="1.0"?>
+<runHistory script="navigate_brand">
+ <run>
+  <RunDate>2015-05-06 10:11:04.166 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>34.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_101104.166/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "droid_home"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:11:56.258 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_101156.258/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:15:44.688 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_101544.688/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: 'imagefound' was called as a Command, but is only available as a Function</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:16:33.945 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_101633.945/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: 'imagefound' was called as a Command, but is only available as a Function</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:17:01.186 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>37.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_101701.186/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "PSearchorenteraddress"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:23:56.097 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>57.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_102356.097/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "banner"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:27:24.856 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_102724.856/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:29:53.911 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_102953.911/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: nav_bar</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:30:19.029 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_103019.029/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:35:20.856 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>56.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_103520.856/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- moveto Error - No Image Found On Screen: "anchor_bottom"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:37:22.392 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_103722.392/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:40:05.713 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>40.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_104005.713/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- moveto Error - No Image Found On Screen: "anchor_bottom"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:41:12.674 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>44.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_104112.674/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- moveto Error - No Image Found On Screen: "anchor_bottom"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:42:17.512 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_104217.512/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:47:26.311 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>80.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_104726.311/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- moveto Error - Could Not Open Image: 400</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:50:48.864 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_105048.864/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:53:22.878 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>98.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_105322.878/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "kb_D"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 10:56:58.873 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_105658.873/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 11:07:06.583 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>176.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_110706.583/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "cookies_Closethismessage"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 11:22:17.422 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_112217.422/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in navigate_brand:
+Syntax Error at line 52: Syntax Error - can't understand [end of script] at or near character 896</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 11:22:39.919 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_112239.919/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in navigate_brand:
+Syntax Error at line 52: Syntax Error - can't understand [end of script] at or near character 900</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 11:23:28.545 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_112328.545/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 11:28:43.602 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>80.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_112843.602/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "HiTypeabrandname_new"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 11:32:31.088 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_113231.088/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 11:36:15.581 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_113615.581/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 11:39:59.596 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_113959.596/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:08:59.509 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_120859.509/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:14:31.104 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>120.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_121431.104/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:23:22.375 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_122322.375/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:28:22.443 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>129.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_122822.443/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "banner"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:41:05.666 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_124105.666/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:42:34.277 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_124234.277/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:43:38.734 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_124338.734/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:49:06.290 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_124906.290/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:50:12.714 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_125012.714/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:52:23.395 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>157.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_125223.395/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 12:57:39.884 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>124.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_125739.884/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:02:51.840 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_130251.840/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:04:12.395 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>110.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_130412.395/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:07:23.002 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>248.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_130723.002/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "Gotopage"</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:11:32.319 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>-8.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150506_131132.319/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:13:52.328 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>121.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_131352.328/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:17:45.741 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>126.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_131745.741/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:19:52.957 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>132.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_131952.957/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:22:05.794 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>127.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_132205.794/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:24:13.311 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>134.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_132413.311/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-05-06 13:26:28.429 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>133.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150506_132628.429/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-05-07 09:23:31.003 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.885000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150507_092331.003/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: 'scroll_list'</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-05-07 09:24:29.431 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>7.600000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150507_092429.431/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: 'scroll_list'</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-05-07 09:27:46.862 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.453000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150507_092746.862/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: 'Scrolled '</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-05-07 09:29:10.648 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>226.645000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150507_092910.648/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: 'name'</ErrorMessage>
+ </run>
+</runHistory>
